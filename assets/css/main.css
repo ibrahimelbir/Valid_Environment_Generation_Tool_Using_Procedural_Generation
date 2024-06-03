@@ -942,6 +942,31 @@ p {
   line-height: 1;
 }
 
+.feature-section .single-feature .avatar {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background: rgba(88, 100, 255, 0.1);
+  color: #5864FF;
+  margin: auto;
+  margin-bottom: 30px;
+  font-size: 65px;
+  line-height: 1;
+}
+
+.feature-section .single-feature .avatar img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: rgba(88, 100, 255, 0.1);
+  color: #5864FF;
+  margin: auto;
+  margin-bottom: 30px;
+  font-size: 65px;
+  line-height: 1;
+}
+
+
 .feature-section .single-feature .icon img {
   width: 130px;
   height: 130px;
